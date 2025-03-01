@@ -12,3 +12,4 @@ Referral tracking, listing all users who signed up using a given referral code
  2)    go into file cd registation
  3) npm i 
  4) npm run dev
+5) Import mysql data while testing i shared it 
